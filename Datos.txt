@@ -1,0 +1,1 @@
+{"estado":"200 ok","carnet":"2160609","velocidad":1778.8,"frecuencia":57.75,"voltaje":120.24,"temperatura":44.375,"tiempo_init_op":1589296271194}
